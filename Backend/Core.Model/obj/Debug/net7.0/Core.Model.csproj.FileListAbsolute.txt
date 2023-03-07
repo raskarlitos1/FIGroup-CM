@@ -1,0 +1,14 @@
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\bin\Debug\net7.0\Core.Model.deps.json
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\bin\Debug\net7.0\Core.Model.runtimeconfig.json
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\bin\Debug\net7.0\Core.Model.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\bin\Debug\net7.0\Core.Model.pdb
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.csproj.AssemblyReference.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.AssemblyInfoInputs.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.AssemblyInfo.cs
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.csproj.CoreCompileInputs.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\refint\Core.Model.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.pdb
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\Core.Model.genruntimeconfig.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.Model\obj\Debug\net7.0\ref\Core.Model.dll

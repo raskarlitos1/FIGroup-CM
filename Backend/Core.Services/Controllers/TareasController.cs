@@ -30,7 +30,7 @@ namespace Core.Services.Controllers
             {
                 List<TareaResponse> data = await tareaRepository.Select(p => new TareaResponse
                 {
-                    Id = p.Id,
+                    Key = p.Id,
                     Accion = p.Accion,
                     Completada = p.Completada ,
                     Fechahoradeactualizacion=p.Fechahoradeactualizacion,
@@ -88,10 +88,10 @@ namespace Core.Services.Controllers
         [HttpPut]
         public async Task<IActionResult> ModificaRegistroTarea([FromBody] TareaResponse itemTareadto)
         {
-            log.LogDebug("Modifica una tarea: " + itemTareadto.Id);
+            log.LogDebug("Modifica una tarea: " + itemTareadto.Key);
             try
             {
-                Tarea existenteRegistro = await tareaRepository.GetAsync(itemTareadto.Id);
+                Tarea existenteRegistro = await tareaRepository.GetAsync(itemTareadto.Key);
                 if (existenteRegistro == null)
                 {
                     return BadRequest(new ErrorResponse() { 

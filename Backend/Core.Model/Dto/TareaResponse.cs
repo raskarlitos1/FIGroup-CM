@@ -7,7 +7,7 @@ namespace Core.Model.Dto
         /// <summary>
         /// Identificador único de la tarea en la entidad
         /// </summary>
-        public int Id { get; set; }
+        public int Key { get; set; }
 
         /// <summary>
         /// Acción de la tarea
@@ -28,6 +28,7 @@ namespace Core.Model.Dto
         /// <summary>
         /// Identifica la fecha y hora en la que se actualizó el registro por última vez
         /// </summary>
-        public DateTime? Fechahoradeactualizacion { get; set; }
+        public DateTime? Fechahoradeactualizacion { get; set; }      
+
     }
 }

@@ -1,0 +1,15 @@
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\bin\Debug\net7.0\Core.DAL.deps.json
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\bin\Debug\net7.0\Core.DAL.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\bin\Debug\net7.0\Core.DAL.pdb
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\bin\Debug\net7.0\Core.Model.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\bin\Debug\net7.0\Core.Model.pdb
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.csproj.AssemblyReference.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.AssemblyInfoInputs.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.AssemblyInfo.cs
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.csproj.CoreCompileInputs.cache
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.csproj.CopyComplete
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\refint\Core.DAL.dll
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\Core.DAL.pdb
+D:\CMSolinfo\Desarrollo\PruebaTecnica\FIGroup-CM\Backend\Core.DAL\obj\Debug\net7.0\ref\Core.DAL.dll
